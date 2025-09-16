@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# virtualenv
+.venv
+venv/
+venv.bak/
+.virtualenv/
+
+# Credentials
+.env
+
+# Parqet file
+parqet.csv
